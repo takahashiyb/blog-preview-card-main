@@ -1,3 +1,29 @@
+@font-face {
+  font-family: "Figtree-Medium";
+  src: url("assets/fonts/static/Figtree-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Figtree-Extra-Bold";
+  src: url("assets/fonts/static/Figtree-ExtraBold.ttf") format("truetype");
+}
+
+:root {
+  --color1: rgb(244, 208, 78);
+  --color2: rgb(17, 17, 17);
+  --color3: rgb(107, 107, 107);
+  --color4: rgb(255, 255, 255);
+  --font1: "Figtree-Medium";
+  --font2: "Figtree-Extra-Bold";
+  --font-size1: 14px;
+  --font-size2: 16px;
+  --font-size3: 24px;
+  --spacing1: 4px;
+  --spacing2: 8px;
+  --spacing3: 12px;
+  --spacing3: 24px;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;

@@ -70,6 +70,7 @@ main {
   row-gap: var(--spacing4);
   box-shadow: 8px 8px 0 var(--color2);
   transition: 0.3 ease-out;
+  margin: 0 20px;
 }
 
 .blog-image-section {
@@ -149,7 +150,10 @@ main {
   font-size: var(--font-size2);
 }
 
-@media (min-width: 375px) {
+@media (min-width: 376px) {
+  .blog-component {
+    margin: 0px;
+  }
   .blog-category {
     font-size: var(--font-size2);
   }

@@ -164,6 +164,12 @@ main {
   }
 }
 
+/* On Hover Effects */
+
+.blog-title:hover {
+  color: var(--color1);
+}
+
 /* Footer provided in the challenge */
 
 .attribution {

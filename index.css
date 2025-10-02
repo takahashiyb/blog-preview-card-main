@@ -2,12 +2,12 @@
 
 @font-face {
   font-family: "Figtree-Extra-Bold";
-  src: url("assets/fonts/static/Figtree-ExtraBold.ttf") format("truetype");
+  src: url("./assets/fonts/static/Figtree-ExtraBold.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Figtree-Medium";
-  src: url("assets/fonts/static/Figtree-Medium.ttf") format("truetype");
+  src: url("./assets/fonts/static/Figtree-Medium.ttf") format("truetype");
 }
 
 /* Setting Variables */

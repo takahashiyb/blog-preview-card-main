@@ -48,7 +48,7 @@ Users should be able to:
 
 The concept of variables was used to see how it works and it was really helpful with organizing not only in coding but also with my thoughts. The realization that adding more variables is difficult when they are set early on so a careful look at the design guide is really important, especially values that were not explicitly pointed out in the guide.
 
-Centering using position to using flex was implemented after a feedback about it was presented in my previous challenge. The formatting was indeed more clear but upon reflection, it really is just a case to case basis, and that either is useful for its intended use. That being said, this method will be used moving forward.
+Centering using position to using flex was implemented after feedback about it was presented in my previous challenge. The formatting was indeed clearer but upon reflection, it really is just a case-to-case basis, and that either is useful for its intended use. That being said, this method will be used moving forward.
 
 To see how you can add code snippets, see below:
 
